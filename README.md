@@ -14,3 +14,9 @@ The required datasets for this study (GPT_reviews.csv & Review_groups_output.csv
 The provided source code for this study (ChatGPTCaseStudy.ipynb) is located under the materials/source folder and the instructions within that jupyter notebook can be utilized to begin & complete this case study. 
 
 ### References:
+
+White, Monica. “Top 10 Most Insane Things ChatGPT Has Done This Week.” Springboard Blog, 9 Dec. 2022, www.springboard.com/blog/news/chatgpt-revolution/.
+
+‌Ruby, Daniel. “ChatGPT Statistics for 2023: Comprehensive Facts and Data.” Demandsage, 28 Apr. 2023, www.demandsage.com/chatgpt-statistics/.
+
+‌
